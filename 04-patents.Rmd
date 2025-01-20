@@ -105,7 +105,7 @@ Thus, under the Patent Cooperation Treaty an applicant may submit the same paten
 
 ## Preparing to Count Patent Data
 
-The patent identifiers discussed above provide the key for tracking patent documents around the world, using the concept of patent families discussed below, and for elaborating patent counts. The most important single piece of information when thinking about patent counts using identifiers is that patent patent data involves multiplier effects that often leads to the duplication or republication of the same document or a document that has been modified based on an earlier version. 
+The patent identifiers discussed above provide the key for tracking patent documents around the world, using the concept of patent families discussed below, and for elaborating patent counts. The most important single piece of information when thinking about patent counts using identifiers is that patent data involves multiplier effects that often leads to the duplication or republication of the same document or a document that has been modified based on an earlier version. 
 Patent identifiers provide the basis for navigating these multiplier effects. The basis for patent counts commonly consists of removing duplicates or deduplication at different levels or combining documents in a variety of ways. 
 
 We will use the drones dataset as an example of this. Table \@ref(tab:dronenumbers) shows a sample of different patent numbers.
